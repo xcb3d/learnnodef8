@@ -1,0 +1,23 @@
+{
+  "name": "f8",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcb3d/learnnodef8.git"
+  },
+  "author": "xcb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcb3d/learnnodef8/issues"
+  },
+  "homepage": "https://github.com/xcb3d/learnnodef8#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
